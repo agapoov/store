@@ -14,7 +14,6 @@ Included is the ability to send email notifications, facilitating effective comm
 4. Code Testing
 A significant portion of the project's codebase is subject to comprehensive testing, ensuring stability and instilling confidence in the application's functionality. Testing plays a pivotal role in identifying and addressing potential issues, contributing to the overall code quality.
 
-Additional Features
 5. Miscellaneous Functionalities
 The project also incorporates various additional functionalities designed to enhance the overall user experience. Attention to detail is evident, ensuring both user convenience and extended functionality within the application.
 
