@@ -1,0 +1,122 @@
+[
+  {
+    "model": "products.product",
+    "pk": 4,
+    "fields": {
+      "name": "Nike Skepta x Air Max Tailwind 5 'Bloody Chrome'",
+      "description": "",
+      "price": "24990",
+      "quantity": 10,
+      "image": "products_images/изображение_2024-01-12_025446077.png",
+      "category": 2
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 5,
+    "fields": {
+      "name": "Marvel x Bapesta Spider-Man",
+      "description": "",
+      "price": "49990",
+      "quantity": 10,
+      "image": "products_images/изображение_2024-01-12_025612965.png",
+      "category": 2
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 6,
+    "fields": {
+      "name": "Razer x Bapesta Low M2 Neon Camo",
+      "description": "",
+      "price": "37990",
+      "quantity": 5,
+      "image": "products_images/изображение_2024-01-12_030017126.png",
+      "category": 2
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 7,
+    "fields": {
+      "name": "Bapesta Text Code Camo - Charcoal",
+      "description": "",
+      "price": "34990",
+      "quantity": 6,
+      "image": "products_images/изображение_2024-01-12_030108084.png",
+      "category": 2
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 8,
+    "fields": {
+      "name": "Marvel x Bapesta Iron Man",
+      "description": "",
+      "price": "52990",
+      "quantity": 6,
+      "image": "products_images/изображение_2024-01-12_030206013.png",
+      "category": 2
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 9,
+    "fields": {
+      "name": "Bapesta Halloween",
+      "description": "",
+      "price": "67990",
+      "quantity": 5,
+      "image": "products_images/изображение_2024-01-12_030343051.png",
+      "category": 2
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 10,
+    "fields": {
+      "name": "Куртка Corteiz OG Bolo Изумрудный",
+      "description": "",
+      "price": "39900",
+      "quantity": 6,
+      "image": "products_images/изображение_2024-01-12_030436262.png",
+      "category": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 11,
+    "fields": {
+      "name": "Вязаный свитер Corteiz из мохера Sakura Camo",
+      "description": "",
+      "price": "34990",
+      "quantity": 7,
+      "image": "products_images/изображение_2024-01-12_030537571.png",
+      "category": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 12,
+    "fields": {
+      "name": "Куртка Corteiz Shotta Черная",
+      "description": "",
+      "price": "44990",
+      "quantity": 8,
+      "image": "products_images/изображение_2024-01-12_030622715.png",
+      "category": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 13,
+    "fields": {
+      "name": "Футболка Corteiz Rally Vinylz",
+      "description": "",
+      "price": "18990",
+      "quantity": 7,
+      "image": "products_images/изображение_2024-01-12_030710604.png",
+      "category": 1
+    }
+  }
+]
